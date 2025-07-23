@@ -1,3 +1,2 @@
 # 3Dsample
-three.js
-adding shadcn
+three.js, React, shadcn
