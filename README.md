@@ -1,2 +1,2 @@
 # 3Dsample
-three.js, React, shadcn
+three.js, React, shadcn, typescript
